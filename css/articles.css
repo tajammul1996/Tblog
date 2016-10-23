@@ -1,0 +1,10 @@
+body {
+  background: blue;
+}
+
+.jumbotron {
+  margin-top: 75px;
+  border: 5px solid blue;
+  line-height: normal;
+  padding: 425px;
+}
