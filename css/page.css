@@ -2,6 +2,7 @@ body {
 	background: url(https://wallpaperscraft.com/image/lens_shutter_optics_black_background_80520_1280x720.jpg);
 	background-size: cover;
 	background-position: center;
+	background-repeat: no-repeat;
 }
 
 .content {
